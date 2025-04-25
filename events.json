@@ -1,0 +1,16 @@
+{
+  "34028e56-f94c-4f9a-8253-17ab09c7f2f2": {
+    "event_id": "34028e56-f94c-4f9a-8253-17ab09c7f2f2",
+    "title": "technovate",
+    "description": "good",
+    "date": "2025-04-30T12:00:00",
+    "venue": "nr",
+    "capacity": 50,
+    "category": "Music",
+    "organizer_id": "4ee6579e-d918-4dcd-96e9-b30f2a5332af",
+    "is_approved": true,
+    "registered_users": [
+      "afe0631b-af6c-4ae6-80ee-9037b22ac0e5"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "292ddb7d-8731-4c64-8e9a-a834f3e40eb3": {
+    "user_id": "292ddb7d-8731-4c64-8e9a-a834f3e40eb3",
+    "username": "admin",
+    "password": "admin123",
+    "email": "admin@example.com",
+    "is_active": true,
+    "role": "admin"
+  },
+  "afe0631b-af6c-4ae6-80ee-9037b22ac0e5": {
+    "user_id": "afe0631b-af6c-4ae6-80ee-9037b22ac0e5",
+    "username": "user1",
+    "password": "user111",
+    "email": "user1@gmail.com",
+    "is_active": true,
+    "role": "user",
+    "registered_events": [
+      "34028e56-f94c-4f9a-8253-17ab09c7f2f2"
+    ]
+  },
+  "4ee6579e-d918-4dcd-96e9-b30f2a5332af": {
+    "user_id": "4ee6579e-d918-4dcd-96e9-b30f2a5332af",
+    "username": "org2",
+    "password": "org222",
+    "email": "org2@gmail.com",
+    "is_active": true,
+    "role": "organizer",
+    "events": [
+      "34028e56-f94c-4f9a-8253-17ab09c7f2f2"
+    ]
+  }
+}
